@@ -2,3 +2,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ataliya-long)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ataliya-long)](https://github.com/ryo-ma/github-profile-trophy)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ataliya-long&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
