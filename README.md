@@ -1,31 +1,18 @@
 <div align="center">
   
-  
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Ataliya!%22)&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="http://43.139.75.125:9000/1.jpg" /><br>
+  <img src="http://43.139.75.125:9000/wallhaven-qz3o5q.png" /><br>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 
 </div>
-
-
-
-
-</td></tr>
-
-<tr><td>
-
-
-
-</td></tr>
-
-<tr><td>
-
-
-
-
 
   
 </td></tr>
