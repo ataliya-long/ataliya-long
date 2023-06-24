@@ -9,8 +9,8 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://i.postimg.cc/tTsyb1gk/image.png" /><br>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
+  
 
 </div>
 
