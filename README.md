@@ -7,7 +7,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://i.postimg.cc/9ffsQsT5/Snipaste-2023-06-30-11-50-15.png" /><br>
+  <img src="https://i.postimg.cc/yNhFjRN1/e9acbce6bb85e4b98be58883-demon-slayer.jpg" /><br>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
   
