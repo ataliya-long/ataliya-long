@@ -7,7 +7,7 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://i.postimg.cc/X7wvN2H7/wallhaven-j37yqp.png" /><br>
+  <img src="https://img1.imgtp.com/2023/10/27/473vsQrA.jpg" /><br>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
   
