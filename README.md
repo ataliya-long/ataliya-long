@@ -7,9 +7,9 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://img1.imgtp.com/2023/10/27/473vsQrA.jpg" /><br>
+  <img src="https://picst.sunbangyan.cn/2023/11/15/d810042cf29d97162557122606f13f86.jpg" /><br>
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
 
 </div>
