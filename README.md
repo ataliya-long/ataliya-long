@@ -9,7 +9,7 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://picst.sunbangyan.cn/2023/11/15/d810042cf29d97162557122606f13f86.jpg" /><br>
   
-  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliya-long&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+  
 
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   
@@ -25,7 +25,7 @@
 
 <div align="center" >
 
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliya-long&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
 
 
 
