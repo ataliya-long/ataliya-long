@@ -6,7 +6,7 @@
     </a>
   </div>
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://i2.100024.xyz/2024/03/05/1zr9kx.gif" /><br>
+  <img src="https://i2.100024.xyz/2024/03/07/21w9p4.webp" /><br>
   
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliya-long&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
 <div align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ataliya-long&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
