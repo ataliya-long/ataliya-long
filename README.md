@@ -7,7 +7,6 @@
   </div>
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://i2.100024.xyz/2024/03/07/21w9p4.webp" /><br>
-  <img src="https://img1.gamersky.com/image2014/10/20141016my_3/11.jpg" /><br>
   <img src="https://img1.gamersky.com/image2014/10/20141016my_3/21.jpg" /><br>
 
   
