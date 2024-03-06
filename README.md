@@ -4,16 +4,36 @@
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Ataliya!%22)&center=true&size=27" alt="Typing SVG" />
     </a>
+    
   </div>
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://i2.100024.xyz/2024/03/07/21w9p4.webp" /><br>
-  <img src="https://img1.gamersky.com/image2014/10/20141016my_3/21.jpg" /><br>
+
+#  🙋 git朋友圈欢迎您
+
+<table>
+  
+<tr><td>
+
+### 🧙 关于我
+
+<img align="right" width="88" src="https://i2.100024.xyz/2024/03/07/2dep65.webp" />
+
+<p>&emsp;汝身听吾之号令，吾命与汝剑同在！！！</p>
+<p>&emsp;我是阿塔利亚，喜欢玩游戏(制作同理)，动漫，计算机编程(PS:这块比较深度一些)，绘画方面领域，欢迎一起讨论喵。</p>
+<p>&emsp;未来几年希望做出自己的框架产品，立足这个行业，拿下计算机的“圣杯”。</p>
+</td></tr>
+
+<tr><td>
+
 
   
-  
+  <img src="https://i2.100024.xyz/2024/03/07/21w9p4.webp" /><br>
+  <img src="https://img1.gamersky.com/image2014/10/20141016my_3/21.jpg" />
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliya-long&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
 <div align="center"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ataliya-long&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></div>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ataliya-long" /></div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ataliya-long" /> </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ataliya-long)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
