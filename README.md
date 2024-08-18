@@ -8,22 +8,6 @@
   </div>
   <!-- knock code pictures 敲代码的图片 -->
 
-#  🙋 欢迎您
-
-<table>
-  
-<tr><td>
-
-### 🧙 关于本人
-
-<img align="right" width="88" src="https://i0.hdslb.com/bfs/article/f55191d29acaf827e13750bc351b615d52814a68.png" />
-
-<p>&emsp;汝身听吾之号令，吾命与汝剑同在！！！</p>
-<p>&emsp;我是半香酱，喜欢玩游戏(策划，制作同理)，动漫，计算机编程，绘画方面领域，欢迎一起讨论呀。</p>
-<p>&emsp;希望有生之年做出自己的框架产品o(*￣▽￣*)ブ。</p>
-</td></tr>
-
-<tr><td>
 
 
 <div align="center"><img src="https://assets-prd.ignimgs.com/avatars/62a4b90f5e42a80001365fe6/saber-1655088017120.png" /></div>
