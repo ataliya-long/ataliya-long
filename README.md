@@ -4,8 +4,8 @@
 ### よお、私は神白澪だ 👋
 
 
-- 🍻 主要方向：C# 开发 / PostgreSQL / Linux.
-- ⚡ C# / Lua / SQL.
+- 🍻 主要方向：C# 开发 / PostgreSQL / Linux / TS.
+- ⚡ C# / Lua / SQL / TS.
 - 🧩 数据库运维 / ETL / 服务器操作系统运维.
 - 🎮 游戏工具链 / 游戏数据库 / 编辑器MOD类工具 / 建模 / 引擎.
 - 🛠  树莓派玩家
