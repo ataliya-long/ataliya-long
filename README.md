@@ -1,36 +1,32 @@
-<div>
-  <!-- knock code pictures 敲代码的图片 -->
+### Hi there 👋 I'm KamiShiro Mio
 
-### よお、私は神白澪だ 👋
+Backend Engineer · Database Engineer
 
+---
 
-- 🍻 主要方向：Go 开发 / PostgreSQL / Linux / TS.
-- ⚡ Go / Lua / SQL / TS.
-- 🧩 数据库运维 / ETL / 服务器操作系统运维.
-- 🎮 游戏工具链 / 游戏数据库 / 编辑器MOD类工具 / 建模 / 引擎.
-- 🛠  树莓派玩家
-
-
-
-
-
-
-
-
-  
-
-</div>
-
-
-
-
-  
-</td></tr>
-</table>
+- 🍻 Backend Development with Go
+- ⚡ Go · Lua · TypeScript · SQL
+- 🗄 PostgreSQL / Database Administration / ETL
+- 🐧 Linux Server Operations & Automation
+- 🎮 Game Tooling / Modding / Editor Extensions
+- 🧩 Unity Pipeline & Blender Workflow
+- 🛠 Raspberry Pi & Homelab Enthusiast
 
 <!-- ########################################## 分割 ########################################## <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" /> -->
 
+### はじめまして、神白澪（KamiShiro Mio）です 👋
 
+バックエンドエンジニア / データベースエンジニア
+
+---
+
+- 🍻 Goによるバックエンド開発
+- ⚡ Go・Lua・TypeScript・SQL
+- 🗄 PostgreSQL・データベース運用・ETL
+- 🐧 Linuxサーバー運用・自動化
+- 🎮 ゲームツール・MOD開発・エディタ拡張
+- 🧩 Unity・Blender制作パイプライン
+- 🛠 Raspberry Pi・ホームラボ
 
 
 
